@@ -1,7 +1,8 @@
-# LGD_Production-Quality-Dashboard
 # LG Display Production & Quality Dashboard
 
 > **Vibe Coding을 활용한 디스플레이 생산·품질 현황 웹 서비스**
+> ![Uploading image.png…]()
+
 
 ## 📅 날짜
 

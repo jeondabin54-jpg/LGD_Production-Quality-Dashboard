@@ -1,5 +1,4 @@
-# LG Display Production & Quality Dashboard
-
+# LG Display Production & Quality Dashboard_Day1
 > **Vibe Coding을 활용한 디스플레이 생산·품질 현황 웹 서비스**
 <img width="1280" height="847" alt="image" src="https://github.com/user-attachments/assets/123f2fb1-72ed-4b89-b038-840bc77ed0d2" />
 
